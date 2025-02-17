@@ -1,0 +1,8 @@
+{
+    "ignore_names": [
+      ".git",
+      "ignore.json",
+      ".gitignore",
+      "venv"
+    ]
+  }
